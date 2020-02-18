@@ -9237,7 +9237,7 @@ button.bg-dark:focus {
 }
 
 .text-monospace {
-  font-family:'Lacquer', sans-serif; !important;
+  font-family:'Lacquer', sans-serif !important;
 }
 
 .text-justify {
